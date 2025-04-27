@@ -6,7 +6,7 @@ This project analyzes the Global Superstore dataset to uncover key insights rela
 ## 📈 Key Components
 KPIs: Total Sales, Total Profit, Profit Margin %
 
-**Customer Segment Analysis: Sales and Profit by Consumer, Corporate, and Home Office segments**
+- **Customer Segment Analysis: Sales and Profit by Consumer, Corporate, and Home Office segments**
 
 **Year-over-Year Growth: Sales and Profit growth trends from 2012-2014**
 
